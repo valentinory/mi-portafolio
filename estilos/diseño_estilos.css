@@ -10,3 +10,9 @@ p {
     font-family: sans-serif;
     margin: 2rem;
 }
+ul {
+    background-color: aquamarine;
+}
+li {
+    border-radius: 1rem;
+}
