@@ -1,0 +1,12 @@
+body {
+    font-family: 'Gill Sans';
+    background-color: whitesmoke;
+}
+h1 {
+    color: rgb(12, 121, 45);
+    font-size: 2rem;
+}
+p {
+    font-family: sans-serif;
+    margin: 2rem;
+}
